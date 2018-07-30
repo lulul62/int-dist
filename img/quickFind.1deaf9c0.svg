@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>08081561-4A77-4317-8310-677ABD9EB5EA</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons-/-active-/-key-copy-2">
+            <polygon id="Bounds" transform="translate(12.000000, 12.000000) scale(1, -1) translate(-12.000000, -12.000000) " points="21 3 3 3 3 21 21 21"></polygon>
+            <g id="search" transform="translate(3.750000, 3.750000)" stroke="#B3B3B3" stroke-width="2">
+                <circle id="Oval" cx="6.75" cy="6.75" r="6.75"></circle>
+                <path d="M16.5,16.5 L11.57775,11.57775" id="Shape" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
